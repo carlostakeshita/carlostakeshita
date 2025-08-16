@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Carlos Eduardo, sou iniciante no mundo do desenvolvimento de software em aplicações web!
 
-- 🌱 Tecnologia MERN
-- 🤔 Banco de Dados
+- 🌱 Aprendendo Stack MERN
+- 🤔 Iniciante em Banco de Dados
 - 📫 Contate-me no email: carloseduardo38291@gmail.com
 
 
