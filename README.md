@@ -4,9 +4,6 @@
 - 🤔 Banco de Dados
 - 📫 Contate-me no email: carloseduardo38291@gmail.com
 
-  <img alt="my stats" align="left" widht="47%" src="https://github-readme-stats.vercel.app/api?username=carlostakeshita&show_icons=true&theme=tokyonight"/>
-  <img alt="top langs" align="left" widht="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostakeshita&&show_icons=true&theme=tokyonight&layout=compact"/>
-
 
   ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript)
   ![Static Badge](https://img.shields.io/badge/Mysql-yellow?style=for-the-badge&logo=Mysql)
@@ -21,6 +18,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.comcarlostakeshita/carlostakeshita/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlostakeshita/carlostakeshita/output/github-contribution-grid-snake.svg">
 </picture>
+
+  <img alt="my stats" align="left" widht="47%" src="https://github-readme-stats.vercel.app/api?username=carlostakeshita&show_icons=true&theme=tokyonight"/>
+  <img alt="top langs" align="left" widht="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostakeshita&&show_icons=true&theme=tokyonight&layout=compact"/>
 
  
 
