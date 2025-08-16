@@ -17,9 +17,9 @@
   ![Image](https://github.com/user-attachments/assets/abf2e874-7f7b-4b2a-a739-05b0409f8e03)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/carlostakeshita/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/carlostakeshita/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/Ycarlostakeshita/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlostakeshita/carlostakeshita/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.comcarlostakeshita/carlostakeshita/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlostakeshita/carlostakeshita/output/github-contribution-grid-snake.svg">
 </picture>
 
  
