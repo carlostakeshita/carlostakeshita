@@ -14,7 +14,7 @@
   ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS)
   ![Static Badge](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js)
 
-  ![Image](https://github.com/user-attachments/assets/4e372843-a592-4548-bb46-093463c29c89)
+ 
 
 
 
