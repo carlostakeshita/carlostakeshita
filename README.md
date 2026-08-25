@@ -4,35 +4,23 @@
 
 <p><em>"If you're hunted, you'll push me any further... you're not the only one walking around with a loaded gun."</em></p>
 
-<img src="./YTDown.com_YouTube_Zenitsu-White-4K-Live-Wallpaper-Animated_Media_uWRYGYqR14I_001_1080p.gif" width="100%" style="border-radius: 8px;" />
+<!-- BANNER ZENITSU -->
+<img src="./YTDown.com_YouTube_Zenitsu-White-4K-Live-Wallpaper-Animated_Media_uWRYGYqR14I_001_1080p.gif" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,255,255,0.2);" />
+
+<br><br>
+
+[![Status](https://img.shields.io/badge/CORE_STATUS-ONLINE-000000?style=for-the-badge&logo=icloud&logoColor=white&color=000000)](https://github.com/carlostakeshita)
+[![Thunder Mode](https://img.shields.io/badge/THUNDER_MODE-ENGAGED-000000?style=for-the-badge&logo=lightning&logoColor=white&color=000000)](https://github.com/carlostakeshita)
+[![Terminal](https://img.shields.io/badge/TERMINAL-ACTIVE-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://github.com/carlostakeshita)
 
 </div>
 
 ---
 
-### 🛠️ TECHNICAL ARSENAL & SKILLS
+### 💻 SYSTEM TELEMETRY
 
-<div align="center">
-
-| Core & Backend | Frontend & UI | Databases & Tools |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=ffffff) | ![HTML5](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=ffffff) | ![MongoDB](https://img.shields.io/badge/MongoDB-121212?style=for-the-badge&logo=mongodb&logoColor=ffffff) |
-| ![Node.js](https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=node.js&logoColor=ffffff) | ![TailwindCSS](https://img.shields.io/badge/Tailwind-121212?style=for-the-badge&logo=tailwind-css&logoColor=ffffff) | ![Git](https://img.shields.io/badge/Git-121212?style=for-the-badge&logo=git&logoColor=ffffff) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-121212?style=for-the-badge&logo=fastapi&logoColor=ffffff) | ![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=ffffff) | ![Linux](https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=ffffff) |
-
-</div>
-
----
-
-### 📊 METRICS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlostakeshita&show_icons=true&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostakeshita&layout=compact&hide_border=true&title_color=ffffff&text_color=a1a1aa&bg_color=00000000" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./49db45737be0c5dea047eae9e27d0dd2.gif" width="400px" style="border-radius: 8px;" />
-</div>
+```yaml
+OPERATOR: Carlos Eduardo (CarlosTakeshita)
+CORE_ENGINE: Python / Node.js / FastAPI / Express / MongoDB
+ENVIRONMENT: Windows / Linux / Custom Rice
+STATUS: Compiling code, running scripts and breaking limits
