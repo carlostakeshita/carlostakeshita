@@ -27,8 +27,8 @@
 ### 📊 METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlostakeshita&show_icons=true&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostakeshita&layout=compact&hide_border=true&title_color=ffffff&text_color=a1a1aa&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlostakeshita&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff&v=1" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostakeshita&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a1a1aa&v=1" height="160px" />
 </div>
 
 <br>
