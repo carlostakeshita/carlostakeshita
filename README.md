@@ -1,35 +1,25 @@
-## Olá! Eu sou o Carlos Eduardo, sou iniciante no mundo do desenvolvimento de software em aplicações web!
+<div align="center">
 
-- 📫 Contate-me no email: carloseduardo38291@gmail.com
+# ⚡ KANMURU.SYS // DEVELOPER PROFILE ⚡
 
+<p><em>"If you're hunted, you'll push me any further... you're not the only one walking around with a loaded gun."</em></p>
 
-  ![Static Badge](https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript)
-  ![Static Badge](https://img.shields.io/badge/Mysql-yellow?style=for-the-badge&logo=Mysql)
-  ![Static Badge](https://img.shields.io/badge/HTML5-purple?style=for-the-badge&logo=HTML5)
-  ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS)
-  ![Static Badge](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js)
+<!-- GIF DE DESTAQUE DO KILLUA -->
+<img src="https://media.giphy.com/media/13hvEjMJSJsqdO/giphy.gif" width="600px" style="border-radius: 8px; box-shadow: 0 0 25px rgba(255,255,255,0.4);" />
 
-  ![Image](https://github.com/user-attachments/assets/abf2e874-7f7b-4b2a-a739-05b0409f8e03)
+<br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlostakeshita/carlostakeshita/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.comcarlostakeshita/carlostakeshita/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carlostakeshita/carlostakeshita/output/github-contribution-grid-snake.svg">
-</picture>
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-ffffff?style=for-the-badge&logo=icloud&logoColor=black)](https://github.com/carlostakeshita)
+[![Terminal](https://img.shields.io/badge/TERMINAL-ACTIVE-ffffff?style=for-the-badge&logo=gnu-bash&logoColor=black)](https://github.com/carlostakeshita)
+[![Stack](https://img.shields.io/badge/STACK-PYTHON_%2F_NODE.JS-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/carlostakeshita)
 
-  <img alt="my stats" align="left" widht="47%" src="https://github-readme-stats.vercel.app/api?username=carlostakeshita&show_icons=true&theme=tokyonight"/>
-  <img alt="top langs" align="left" widht="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostakeshita&&show_icons=true&theme=tokyonight&layout=compact"/>
+</div>
 
- 
+---
 
+### 💻 SYSTEM TELEMETRY
 
-
-
-
-
-
-
-
-
-
-
+```yaml
+LOCATION: Brazil // FATEC Program
+FOCUS: Web Development & Systems Engineering
+STATUS: Compiling code, running scripts and breaking limits
